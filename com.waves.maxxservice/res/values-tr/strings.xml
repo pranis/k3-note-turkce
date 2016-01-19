@@ -15,6 +15,6 @@
      <string name="abc_searchview_description_voice">Sesli arama</string>
      <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
      <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
-     <string name="abc_toolbar_collapse_description">Collapse</string>
+     <string name="abc_toolbar_collapse_description">Araç çubuğunun çökme nedeni</string>
      <string name="app_name">MaxxService</string>
 </resources>
